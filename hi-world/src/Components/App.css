@@ -1,0 +1,33 @@
+#addcontacts{
+  margin-top: 100px;
+}
+#navbar{
+  padding :100px auto;
+  background-color: aliceblue;
+}
+.img{
+  width: 100px;
+  margin:20px 5px;
+}
+.trash{
+  position:absolute;
+  margin-left: 300px;
+  width: 50px;
+}
+.item{
+  height: 100px;
+  width: 700px;
+  position: relative;
+  padding:30px 20px;
+}
+.item .header{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.avatar{
+  height: 100px; 
+}
+#navbar{
+  padding: 20px;
+}
